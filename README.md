@@ -1,2 +1,2 @@
 # ShopGini_RAG
-### ShopGini - Advanced RAG Hackathon
+#### ShopGini - Advanced RAG Hackathon
